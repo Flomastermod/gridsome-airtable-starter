@@ -1,8 +1,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/66526f3f-455e-4ee4-b05e-3cf37c607921/deploy-status)](https://app.netlify.com/sites/gridsomeairtable/deploys)
+***
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrianBalanescu)](https://github.com/anuraghazra/github-readme-stats)
 
-# Airtable starter for Gridsome
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndrianBalanescu)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrianBalanescu)](https://github.com/anuraghazra/github-readme-stats)
 
