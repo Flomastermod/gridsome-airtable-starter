@@ -49,7 +49,7 @@ module.exports = {
 }
 
 ```
-
+//
 - `apiKey` is the API secret provided by Airtable
 - `baseId` is the identifier for the base you would like to connect to
 - `tableName` is the table you would like to pull data from
